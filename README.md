@@ -91,7 +91,7 @@ Activity
 1. Clone โปรเจกต์
 
 ```
-git clone <repository-url>
+git clone <https://github.com/nattakit1/App_Activity_Tracker.git>
 ```
 
 2. เข้าโฟลเดอร์โปรเจกต์
