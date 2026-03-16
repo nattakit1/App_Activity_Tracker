@@ -120,3 +120,20 @@ flutter run
 * Dart
 * SQLite
 * Provider State Management
+
+# 1 Dashboard/Main
+
+![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nattakit/Documents/Screenshot%202569-03-16%20at%2014.39.17.png?version%3D1773647268168)
+
+
+# 2 List
+
+![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nattakit/Documents/Screenshot%202569-03-16%20at%2014.39.20.png?version%3D1773647308361)
+
+# 3 Detail
+
+![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nattakit/Documents/Screenshot%202569-03-16%20at%2014.39.32.png?version%3D1773647353454)
+
+# 4 Add
+
+![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nattakit/Documents/Screenshot%202569-03-16%20at%2014.39.54.png?version%3D1773647376930)
